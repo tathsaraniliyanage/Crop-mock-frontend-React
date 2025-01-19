@@ -1,9 +1,9 @@
 # Crop Monitoring System
 
-features
+## features
 
-## component base hirachy
-## react router
-## redux with slices (manage the status using other hooks where required)
-## tailwind css framework 
+component base hirachy
+react router
+redux with slices (manage the status using other hooks where required)
+tailwind css framework 
 
