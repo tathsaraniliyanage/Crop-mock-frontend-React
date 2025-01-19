@@ -13,12 +13,14 @@ import EquipmentAdd from "./components/EquipmentAdd";
 import StaffAdd from "./components/StaffAdd";
 import VehicleAdd from "./components/VehicleAdd";
 import LogAdd from "./components/LogAdd";
-
+import Home from "./pages/Home";
 
 function App() {
   return (
     <Routes>
+
         <Route path="/dashboard" Component={Dashboard}>
+        <Route path="home" Component={Home}></Route>
         <Route path="field" Component={Field}>
             <Route path="field-add" Component={FieldAdd}></Route>
         </Route>
