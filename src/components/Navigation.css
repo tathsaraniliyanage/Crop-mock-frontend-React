@@ -1,0 +1,42 @@
+
+.navbar {
+    display: flex;
+    flex-direction: column; /* Arrange items in a column */
+    align-items: flex-start; /* Align items to the start of the column */
+    background-color: #f8f9fa; /* Set a background color for the navbar */
+    padding:0px 1px;
+    width: 250px; /* Set a fixed width for the navbar */
+    height: 100%; /* Full height for vertical alignment */
+    border-right: 1px solid #ddd; /* Optional: Add a border to separate the navbar */
+    font-size: 10px;
+
+}
+
+.navbar .custom-link {
+    @apply hover:bg-green-100 px-3 py-2 rounded-md text-sm font-medium;
+    width: 100%; /* Make links take full width */
+    text-align: left; /* Align text to the left */
+    /* margin-bottom: 10px; */  /* Add space between links */
+    color: #146b38; /* Set the text color */
+    text-decoration: none; /* Remove underline from links */
+    display: flex;
+    flex-direction: column; /* Arrange items in a column */
+    align-items: flex-start; /* Align items to the start of the column */
+    font-size: 10px;
+    font-weight: 600;
+    /* hover:bg-gradient-to-r from-[#0e836c1b] hover:border-[#0E836B] */
+    background-color: transparent; /* Default background */
+    border: 1px 0px solid transparent; /* Default border */
+    transition: all 0.3s ease; 
+}
+
+.navbar .custom-link:hover {
+    color: #146b38; /* Change text color on hover */
+    width: 240px;
+    /* background: linear-gradient(to right, rgba(14, 131, 108, 0.11), rgba(14, 131, 108, 0.11)); */
+    /* border-color: #0E836B; */
+      /* background: linear-gradient(to right,#0e836c1b, rgba(14, 131, 108, 0.11)); 
+     */
+     background: linear-gradient(to right, rgba(14, 131, 108, 0.11), rgba(14, 131, 108, 0.11));
+     border-color: #0E836B;
+}
