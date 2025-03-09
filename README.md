@@ -1,11 +1,11 @@
-# Crop Monitoring System
+# 🚀  Crop Monitoring System
 
 ## Green Shadow - Crop Monitoring System (React Frontend)
 
 This project is the frontend of a Crop Management System designed to help manage and track crop data. It is built using React, TypeScript, and Tailwind CSS, and communicates with a backend built with nodejs.
 
 
-## Features
+## 🌟 Features
 
 - View crop information in a user-friendly interface.
 - Add, update, and delete crop records seamlessly.
@@ -20,7 +20,7 @@ This project is the frontend of a Crop Management System designed to help manage
 - tailwind css framework 
 
 
-## Technologies Used
+## 📚 Technologies Used
 
 - React: A JavaScript library for building user interfaces.
 
@@ -35,7 +35,7 @@ This project is the frontend of a Crop Management System designed to help manage
 - Vite: A fast build tool for modern web development.
 
 
-## Folder Structure
+## 📚 Folder Structure
 
 ```
 frontend/
@@ -58,7 +58,7 @@ frontend/
 ```
 
 
-## License
+## 📚 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
