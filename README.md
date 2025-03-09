@@ -37,6 +37,7 @@ This project is the frontend of a Crop Management System designed to help manage
 
 ## Folder Structure
 
+```
 frontend/
 ├── public/                  # Static assets
 ├── src/
@@ -54,6 +55,7 @@ frontend/
 ├── tsconfig.json            # TypeScript configuration
 ├── package.json             # Project dependencies
 └── README.md                # Project documentation
+```
 
 
 ## License
