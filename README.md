@@ -35,6 +35,7 @@ This project is the frontend of a Crop Management System designed to help manage
 - Vite: A fast build tool for modern web development.
 
 
+
 ## 📚 Folder Structure
 
 ```
