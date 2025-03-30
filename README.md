@@ -1,6 +1,8 @@
-# 🚀  Crop Monitoring System
+# 🚀 Crop Monitoring System - React Frontend
 
-## Green Shadow - Crop Monitoring System (React Frontend)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Green+Shadow+&color=078179" />
+</h1>
 
 This project is the frontend of a Crop Management System designed to help manage and track crop data. It is built using React, TypeScript, and Tailwind CSS, and communicates with a backend built with nodejs.
 
