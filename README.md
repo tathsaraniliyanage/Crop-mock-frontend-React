@@ -61,6 +61,11 @@ frontend/
 ```
 
 
+## Screenshots 🖼️
+
+![Screenshot from 2025-01-14 09-14-06](https://github.com/user-attachments/assets/eda523bf-7e95-45d1-993b-94fa5f3b1382)
+
+
 ## 📚 License
 
 This project is licensed under the [MIT License](LICENSE).
